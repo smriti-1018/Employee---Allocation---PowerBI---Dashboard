@@ -19,7 +19,9 @@ Key Features
 
 Dashboard Preview
 
-[Dashboard](screenshot.png)
+[Dashboard](Screenshot 2026-09-11 155607.png
+Screenshot 2026-09-11 155636.png
+Screenshot 2026-09-11 155652.png)
 
 Project File
 The Power BI `.pbix` file is available in this repository.
